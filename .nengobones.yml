@@ -1,0 +1,25 @@
+project_name: MyDay
+pkg_name: myday
+repo_name: tbekolay/myday
+description: Lightweight personal time management
+
+copyright_start: 2020
+
+license_rst: {}
+
+contributing_rst: {}
+
+contributors_rst: {}
+
+manifest_in: {}
+
+setup_cfg: {}
+
+docs_conf_py: {}
+
+ci_scripts:
+  - template: static
+
+pre_commit_config_yaml: {}
+
+pyproject_toml: {}
